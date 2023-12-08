@@ -24,4 +24,4 @@ Attendance Tracking:
 3. If the face is recognized, proceed to anti-spoofing checks.
 
 
-Finally store the data in a log.txt file (Name . in time , out time)
+Finally store the data in a log.txt file (Name , in time , out time)
